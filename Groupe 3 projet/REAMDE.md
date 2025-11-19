@@ -3,11 +3,11 @@
 GROUP number 3
 
 ## Group Members  
- YAMEOGO Claudine  
- ZABRE Yienderima Elvine 
- TRAORE Aminata Jeanine Esmelle 
- OUEDRAOGO Adele
- DEHOUMON Christelle Alvine
+ YAMEOGO Claudine, 
+ ZABRE Yienderima Elvine, 
+ TRAORE Aminata Jeanine Esmelle,  
+ OUEDRAOGO Adele, 
+ DEHOUMON Christelle Alvine, 
  KAGAMBEGA Saturnin
 
 ## Project Description  
